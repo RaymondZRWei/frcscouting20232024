@@ -1,3 +1,13 @@
+I would have liked to fork the original repo, but did not have permissions to make the fork public
+Message me for more information:
+
+Email: raymondweizr@gmail.com
+
+Discord: inconspicuousaltacc
+
+Vercel Link: [https://610-scouting-app-2024-phi.vercel.app/scout](url)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
